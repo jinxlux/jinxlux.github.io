@@ -1,6 +1,8 @@
 # This is my personal site
 
-### This site is currently for displaying my personal information and my previous projects. It can be seen as a fancy 'business card'
+#### This site is currently for displaying my personal information and my previous projects. It can be seen as a fancy 'business card'.
+
+#### you can click https://jinxlux.github.io/ for viewing.
 
 ##### This page mainly uses the templet designed by HTML5 UP. The readme of the original templet is shown here:
 	Dimension by HTML5 UP
